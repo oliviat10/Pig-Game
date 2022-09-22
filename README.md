@@ -18,7 +18,7 @@ A simple game of Pig!
 2) cd to their location in Command Prompt/Terminal/etc.
 3) Compile the files and run PlayGame!
 
-javac Die.java Game.java Player.java PlayGame.java
-java PlayGame
+- javac Die.java Game.java Player.java PlayGame.java
+- java PlayGame
 
 ## Enjoy! :)
