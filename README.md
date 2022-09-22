@@ -1,6 +1,8 @@
 # Pig-Game
 A simple game of Pig!
 
+![](https://github.com/Pig-Game/piggif.gif)
+
 ## About Pig
 - The game has one or more players (at least two would probably be most fun)
 - The first player to reach the victory score wins (typically this is 100 points, but in this version the victory score can be any positive number of points decided by you the user)
