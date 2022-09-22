@@ -1,7 +1,7 @@
 # Pig-Game
 A simple game of Pig!
 
-![pig](https://github.com/Pig-Game/piggif.gif)
+![pig](https://img1.picmix.com/output/stamp/normal/9/8/1/3/1423189_190c0.gif)
 
 ## About Pig
 - The game has one or more players (at least two would probably be most fun)
